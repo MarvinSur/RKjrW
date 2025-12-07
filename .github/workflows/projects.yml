@@ -7,7 +7,6 @@ on:
       - unlabeled
       - closed
       - reopened
-  workflow_dispatch:    
 
 jobs:
   bugs:
