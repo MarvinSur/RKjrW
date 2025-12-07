@@ -13,7 +13,6 @@ on:
       - reopened
       - synchronize
       - labeled
-  workflow_dispatch:   
 
 jobs:
   build:
